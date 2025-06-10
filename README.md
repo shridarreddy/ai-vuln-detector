@@ -24,6 +24,21 @@ Modern Security Operations Centers (SOCs) are overwhelmed by false alerts. This 
 - Output of critical alerts: `anomaly == -1 && risk_level != 'Low'`
 - Unified visualizations for analysis
 
+## 🔍 Anomaly Detection Visualization
+
+![image](https://github.com/user-attachments/assets/3c21f408-d34b-477c-800b-3174b547ed7c)
+
+
+## ⚠️ Critical Alerts (Anomalous + High Risk)
+
+![image](https://github.com/user-attachments/assets/7478df47-5031-4504-a443-23d7657dbcd6)
+
+
+## 📊 Risk Level Distribution
+
+![image](https://github.com/user-attachments/assets/53683012-531a-4433-821e-34c583527cc3)
+
+
 ## 🚀 How to Run
 
 Install dependencies:
